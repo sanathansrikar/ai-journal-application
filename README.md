@@ -80,7 +80,7 @@ The app will open in your default web browser at `http://localhost:8501`
 ## Dependencies
 
 - streamlit>=1.28.0
-- google-genai>=0.3.0
+- google-genai>=0.3.0 (use google-genai=1.49.0 if facing any issues)
 - python-dotenv>=1.0.0
 
 ## License
