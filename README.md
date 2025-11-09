@@ -24,7 +24,7 @@ git clone https://github.com/yourusername/AIJournalApp.git
 cd AIJournalApp
 ```
 
-2. Create a `.env` file in the project root and add your Google API key:
+2. Create a `.env` file (if not exists) in the project root and add your Google API key:
 ```
 GOOGLE_API_KEY=your_api_key_here
 ```
